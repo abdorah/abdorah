@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi there! My name is Abderrahmane. 👋 
 
+- 🔭 I’m currently working on web microservices architecture using spring
+- 🌱 I’m currently learning spring oauth security
+- 📫 How to reach me: kotbymo@gmail.com
 <!--
 **abdorah/abdorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on web microservices architecture using spring
+- 🌱 I’m currently learning spring oauth security
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

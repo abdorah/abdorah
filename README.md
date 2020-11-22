@@ -1,4 +1,7 @@
 ### Hi there! My name is Abderrahmane. 👋 
+I am CS student. I love coding but what I love more is to contribute and help communities to grow up and make more projects.
+I am new to this but I will make big changes in the upcoming months!
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" /></p>
 
 - 🔭 I’m currently working on web microservices architecture using spring
 - 🌱 I’m currently learning spring oauth security

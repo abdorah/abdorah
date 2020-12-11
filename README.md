@@ -1,8 +1,9 @@
-### Hi there! My name is Abderrahmane. 👋 
+### Hi there! My name is Abderrahmane. 👋
+
 I am CS student. I love coding but what I love more is to contribute and help communities to grow up and make more projects.
 I love also making articles and tutorials about various topics to help people to learn more and motivate them to develop new solutions.
 
-![DJ-Coder](https://octodex.github.com/images/catstello.png)
+![DJ-Coder](DJCoder.png)
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" /></p>
 

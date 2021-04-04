@@ -1,26 +1,53 @@
-### Hi there! My name is Abderrahmane. 👋
-
-I am CS student. I love coding but what I love more is to contribute and help communities to grow up and make more projects.
-I love also making articles and tutorials about various topics to help people to learn more and motivate them to develop new solutions.
+### Hi there! My name is ***KOTBI Abderrahmane***. 👋
 
 <p align="center"><img width="100%" src="https://octodex.github.com/images/privateinvestocat.jpg" /></p>
 
+### 🤵 About Me:
+
+
+<p>I am a curious software engineering student at the national higher school of computer science and system analysis, ✨<strong>ENSIAS</strong>✨. I love coding and contributing in open source projects. Also, everytime I learn about a new topic or technology, I like to  ✨ write articles and tutorials ✨ about it. I like to work also on ✨ competitve programming problems ✨ and learn from genius solutions.</p>
+
+---
+
+<details>
+<summary>
+Technologies & programming languages:
+</summary>
+JAVASCRIPT, HTML5, CSS3, JAVA, C, C++, PYTHON, MATLAB,  MYSQL, PLSQL, UML, Merise.
+<br>
+<br/>
+Spring, JakartaEE, ANDROID STUDIO, Angular, ReactJs, BOOTSTRAP Docker, maven, gradle, ORACLE Apex.
+</details>
+
+---
+### 🐱My Github stats:
+
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorah&layout=compact&text_color=3ebdae&bg_color=1a1b27" /></p>
 
-- 🔭 I’m currently working on web microservices architecture using spring
-- 🌱 I’m currently learning spring oauth security
-- 📫 How to reach me: kotbymo@gmail.com
-<!--
-**abdorah/abdorah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<details>
+<summary> Contact me🤝: </summary>  
+You can simply contact me  by email: ***kotbymo@gmail.com***. However, I encourage you to use other social media. 
+<br>
+<br/>
+<a href="https://twitter.com/KotbiAbderrahm1">
+  <img align="left"  width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
+</a>
+<a href="https://www.linkedin.com/in/abderrahmane-kotbi-59470a146/">
+  <img align="left" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+<br>
+<br/>
+</details>
 
-- 🔭 I’m currently working on web microservices architecture using spring
-- 🌱 I’m currently learning spring oauth security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📕 My latest articles
+[Java Functional Programming](https://gist.github.com/abdorah/28ab6adccd53e6ca74487c08f84c3516)
+
+---
+
+### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories)! 
+### That really makes me happier!

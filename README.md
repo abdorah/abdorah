@@ -13,10 +13,10 @@
 <summary>
 Technologies & programming languages:
 </summary>
-JAVASCRIPT, HTML5, CSS3, JAVA, C, C++, PYTHON, MATLAB,  MYSQL, PLSQL, UML, Merise.
+Javascript, HTML5, CSS3, Java, C, C++, Python, MATLAB,  MYSQL, PLSQL, UML, Merise.
 <br>
 <br/>
-Spring, JakartaEE, ANDROID STUDIO, Angular, ReactJs, BOOTSTRAP Docker, maven, gradle, ORACLE Apex.
+Spring, JakartaEE, Android Studio, Angular, ReactJS, Bootstrap, Docker, maven, gradle, ORACLE Apex.
 </details>
 
 ---

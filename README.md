@@ -29,7 +29,7 @@ Spring, JakartaEE, ANDROID STUDIO, Angular, ReactJs, BOOTSTRAP Docker, maven, gr
 
 <details>
 <summary> Contact me🤝: </summary>  
-You can simply contact me  by email: ***kotbymo@gmail.com***. However, I encourage you to use other social media. 
+You can simply contact me  by email: <strong>kotbymo@gmail.com</strong>. However, I encourage you to use other social media. 
 <br>
 <br/>
 <a href="https://twitter.com/KotbiAbderrahm1">
@@ -50,4 +50,4 @@ You can simply contact me  by email: ***kotbymo@gmail.com***. However, I encoura
 ---
 
 ### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories)! 
-### That really makes me happier!
+### That really makes me happy!

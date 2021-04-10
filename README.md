@@ -29,7 +29,7 @@ Spring, JakartaEE, Android Studio, Angular, ReactJS, Bootstrap, Docker, maven, g
 
 <details>
 <summary> Contact me🤝: </summary>  
-You can simply contact me  by email: <strong>kotbymo@gmail.com</strong>. However, I encourage you to use other social media. 
+You can simply contact me  by email: <strong>kotbiabderrahmane16@gmail.com</strong>. However, I encourage you to use other social media. 
 <br>
 <br/>
 <a href="https://twitter.com/KotbiAbderrahm1">

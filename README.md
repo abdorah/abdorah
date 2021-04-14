@@ -49,5 +49,5 @@ You can simply contact me  by email: <strong>kotbiabderrahmane16@gmail.com</stro
 
 ---
 
-### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories)! 
+### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories) and to my [gists](https://gist.github.com/abdorah)!
 ### That really makes me happy!

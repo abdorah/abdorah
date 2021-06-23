@@ -10,7 +10,7 @@
 ---
 
 * [Personal website](https://kotbiabderrahmane.web.app/)
-* [CV Eng/Fr pdf](https://kotbiabderrahmane.web.app/public/assets/pdf/kotbi%20abderrahmane%20CV.pdf)
+* [CV Eng/Fr pdf](https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf)
 * [Next Community Profil](https://maxbase.org/network/abdorah/)
 
 ---

@@ -9,9 +9,18 @@
 
 ---
 
+<details>
+<summary>
+My resume + links:
+</summary>
 * [Personal website](https://kotbiabderrahmane.web.app/)
+<br>
+<br/>
 * [CV Eng/Fr pdf](https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf)
+<br>
+<br/>
 * [Next Community Profil](https://maxbase.org/network/abdorah/)
+</details>
 
 ---
 

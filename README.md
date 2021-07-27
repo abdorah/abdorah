@@ -13,16 +13,16 @@
 <summary>
 My Profils:
 </summary>
-<a herf="https://kotbiabderrahmane.web.app/">Personal website</a>
+<a href="https://kotbiabderrahmane.web.app/">Personal website</a>
 <br>
 <br/>
-<a herf="http://resume.github.io/?abdorah">GitHub resume</a>
+<a href="http://resume.github.io/?abdorah">GitHub resume</a>
 <br>
 <br/>
-<a herf="https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf">Eng and Fr pdf resume</a>
+<a href="https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf">Eng and Fr pdf resume</a>
 <br>
 <br/>
-<a herf="https://maxbase.org/network/abdorah/">Next Community Profil</a>
+<a href="https://maxbase.org/network/abdorah/">Next Community Profil</a>
 </details>
 
 ---

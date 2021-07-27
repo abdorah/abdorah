@@ -11,15 +11,18 @@
 
 <details>
 <summary>
-My resume + links:
+My Profils:
 </summary>
-* [Personal website](https://kotbiabderrahmane.web.app/)
+<a herf="https://kotbiabderrahmane.web.app/">Personal website</a>
 <br>
 <br/>
-* [CV Eng/Fr pdf](https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf)
+<a herf="http://resume.github.io/?abdorah">GitHub resume</a>
 <br>
 <br/>
-* [Next Community Profil](https://maxbase.org/network/abdorah/)
+<a herf="https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf">Eng and Fr pdf resume</a>
+<br>
+<br/>
+<a herf="https://maxbase.org/network/abdorah/">Next Community Profil</a>
 </details>
 
 ---
@@ -28,10 +31,10 @@ My resume + links:
 <summary>
 Technologies & programming languages:
 </summary>
-Javascript, HTML5, CSS3, Java, C, C++, Python, MATLAB,  MYSQL, PLSQL, UML, Merise.
+Javascript, HTML5, CSS3, Java, C, C++, Python, PL/SQL, UML, Merise.
 <br>
 <br/>
-Spring, JakartaEE, Android Studio, Angular, ReactJS, Bootstrap, Docker, maven, gradle, ORACLE Apex.
+Spring, JakartaEE, Android Studio, Angular, ReactJS, Bootstrap, Docker, maven, gradle, Microsoft Power, ORACLE Apex.
 </details>
 
 ---

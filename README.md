@@ -41,6 +41,7 @@ Spring, JakartaEE, Android Studio, Angular, ReactJS, Bootstrap, Docker, maven, g
 ### 🐱My Github stats:
 
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdorah&theme=tokyonight" /></p>
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorah&layout=compact&text_color=3ebdae&bg_color=1a1b27" /></p>
 
 ---

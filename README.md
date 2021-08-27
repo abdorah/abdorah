@@ -21,7 +21,9 @@ My Profils:
 </li>
 <li><a href="https://maxbase.org/network/abdorah/">Next Community Profil</a>
 </li>
-<li><a href="https://hub.docker.com/u/onelangorg/">One Lang DockerHub orgranisation </a>
+<li><a href="https://www.youtube.com/channel/UCW-mN81shtK6O4K5jzTY5Iw">Youtube Detective Coder Channel</a>
+</li>
+<li><a href="https://hub.docker.com/u/onelangorg/">One Lang DockerHub orgranisation</a>
 </li>
 </ul>
 </details>
@@ -56,6 +58,7 @@ During my learning journey, I have had the chance to discover many programming l
 <img src="https://img.shields.io/badge/-JUnit-25a162?style=flat&logo=junit5&logoColor=green">
 <br>
 <br/>
+<img src="https://img.shields.io/badge/-Latex-25a162?style=flat&logo=Latex&logoColor=white">
 <img src="https://img.shields.io/badge/-Microsoft%20Office-b9361a?style=flat&logo=microsoft%20office">
 </details>
 

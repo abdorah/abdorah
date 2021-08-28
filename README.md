@@ -25,7 +25,7 @@ My Profils:
 </li>
 <li><a href="https://hub.docker.com/u/onelangorg/">One Lang DockerHub orgranisation</a>
 </li>
-<li><a href="https://stackoverflow.com/users/14713531/kotbi-abderrahmane">Stackoverflow profil/a>
+<li><a href="https://stackoverflow.com/users/14713531/kotbi-abderrahmane">Stackoverflow profil</a>
 </li>
 </ul>
 </details>

@@ -19,11 +19,13 @@ My Profils:
 </li>
 <li><a href="https://kotbiabderrahmane.web.app/assets/pdf/kotbi%20abderrahmane%20CV.pdf">English/French pdf resume</a>
 </li>
-<li><a href="https://maxbase.org/network/abdorah/">Next Community Profil</a>
+<li><a href="https://maxbase.org/network/abdorah/">Next community profil</a>
 </li>
 <li><a href="https://www.youtube.com/channel/UCW-mN81shtK6O4K5jzTY5Iw">Youtube Detective Coder Channel</a>
 </li>
 <li><a href="https://hub.docker.com/u/onelangorg/">One Lang DockerHub orgranisation</a>
+</li>
+<li><a href="https://stackoverflow.com/users/14713531/kotbi-abderrahmane">Stackoverflow profil/a>
 </li>
 </ul>
 </details>

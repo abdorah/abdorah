@@ -7,7 +7,7 @@
         </td>
         <td>
         <h3>🤵 About Me:</h3>
-        <p>I am a curious software engineering student at the national higher school of computer science and system analysis, ✨<strong>ENSIAS</strong>✨. I love coding and contributing in open source projects. Also, everytime I learn about a new topic or technology, I like to  ✨ write articles and tutorials ✨ about it. I like to work also on ✨ competitve programming problems ✨ and learn from genius solutions.</p>
+        <p>I am a curious software engineering student at the national higher school of computer science and system analysis, ✨<strong>ENSIAS</strong>✨. I love coding and contributing in open source projects. Also, everytime I learn about a new topic or technology, I like to  ✨ write articles and make videos ✨ about it. I like to work also on ✨ competitve programming problems ✨ and learn from genius solutions.</p>
         </td>
     </tr>
 </table>

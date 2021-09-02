@@ -107,9 +107,10 @@ Contact me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
 
 ---
 
-### 📕 My latest articles
+### 📕 My latest articles and videos
 
 [Java Functional Programming](https://gist.github.com/abdorah/28ab6adccd53e6ca74487c08f84c3516)
+[Leetcode problem: 1268. Search Suggestions System](https://youtu.be/moIMeKBnUJM)
 
 ---
 

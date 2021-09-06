@@ -1,4 +1,4 @@
-### Hi there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> My name is **_KOTBI Abderrahmane_**. <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
+### Hi there! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px"> My name is **_KOTBI Abderrahmane_** <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
     <tr>
@@ -6,7 +6,7 @@
             <img width="100%" style="border-radius: 7px; float:left" src="https://octodex.github.com/images/privateinvestocat.jpg" />
         </td>
         <td>
-        <h3>🤵 About Me:</h3>
+        <h3>🤵 About Me</h3>
         <p>I am a curious software engineering student at the national higher school of computer science and system analysis, ✨<strong>ENSIAS</strong>✨. I love coding and contributing in open source projects. Also, everytime I learn about a new topic or technology, I like to  ✨ write articles and make videos ✨ about it. I like to work also on ✨ competitve programming problems ✨ and learn from genius solutions.</p>
         </td>
     </tr>
@@ -16,7 +16,7 @@
 
 <details>
 <summary>
-My Profils:
+    :sunglasses: My Profils
 </summary>
 <ul>
 <li><a href="https://profile.codersrank.io/user/abdorah/">CodersRank profil</a>
@@ -42,7 +42,7 @@ My Profils:
 
 <details>
 <summary>
-Technologies & programming languages:
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="33px" />Technologies & programming languages
 </summary>
 During my learning journey, I have had the chance to discover many programming languages, technologies and tools. Also, I acquired skills:
 <br>
@@ -74,17 +74,35 @@ During my learning journey, I have had the chance to discover many programming l
 
 ---
 
-### 🐱My Github stats:
+#### 🐱 My Github stats
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" /></p>
-<p align="center"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdorah&theme=tokyonight" /></p>
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorah&layout=compact&text_color=3ebdae&bg_color=1a1b27" /></p>
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abdorah&show_icons=true&theme=tokyonight" />
+</details>
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdorah&layout=compact&text_color=3ebdae&bg_color=1a1b27" />
+</details>
+<details> 
+  <summary>📈 Activity Graph</summary>
+  <br/>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=abdorah&theme=github" />
+</details>
+<details> 
+  <summary>⚡ Contribution Streak</summary>
+  <br/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdorah&theme=tokyonight" />
+  <br/>
+</details>
 
 ---
 
 <details>
 <summary>
-Contact me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />:
+<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />Contact me
 </summary>
 <br>
 </br>
@@ -109,7 +127,7 @@ Contact me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
 
 ---
 
-### 📕 My latest articles and videos
+#### 📕 My latest articles and videos
 
 [Java Functional Programming](https://gist.github.com/abdorah/28ab6adccd53e6ca74487c08f84c3516)
 
@@ -117,6 +135,6 @@ Contact me<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/
 
 ---
 
-### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories) and my [gists](https://gist.github.com/abdorah)!
+#### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories) and my [gists](https://gist.github.com/abdorah)!
 
-### That really makes me happy!
+#### That really makes me happy!

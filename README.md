@@ -27,6 +27,8 @@
 </li>
 <li><a href="https://www.youtube.com/channel/UCW-mN81shtK6O4K5jzTY5Iw">Detective Coder Youtube Channel</a>
 </li>
+<li><a href="https://dev.to/abdorah">Dev profil</a>
+</li>
 <li><a href="https://hub.docker.com/u/onelangorg/">One Lang DockerHub orgranisation</a>
 </li>
 <li><a href="https://kotbiabderrahmane.web.app/">Personal website</a>

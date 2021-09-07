@@ -53,7 +53,7 @@ During my learning journey, I have had the chance to discover many programming l
 <br>
 <br/>
 <img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <br>
 <br/>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">

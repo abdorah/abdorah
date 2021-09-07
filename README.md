@@ -131,7 +131,7 @@ During my learning journey, I have had the chance to discover many programming l
 
 #### 📕 My latest articles and videos
 
-[Java Functional Programming](https://gist.github.com/abdorah/28ab6adccd53e6ca74487c08f84c3516)
+[Java Functional Programming](https://kotbymo.gitbook.io/kotbi/)
 
 [Leetcode problem: 1268. Search Suggestions System](https://youtu.be/moIMeKBnUJM)
 

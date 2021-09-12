@@ -134,6 +134,8 @@ During my learning journey, I have had the chance to discover many programming l
 
 [Leetcode problem: 1268. Search Suggestions System](https://youtu.be/moIMeKBnUJM)
 
+[How to build your virtual workspace](https://dev.to/abdorah/how-to-build-your-virtual-workspace-84)
+
 ---
 
 #### Don't forget to show ❤️ by 🌟 my [repositories](https://github.com/abdorah?tab=repositories) and my [gists](https://gist.github.com/abdorah)!

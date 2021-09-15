@@ -46,31 +46,33 @@
 <summary>
 <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="33px" />Technologies & programming languages
 </summary>
-During my learning journey, I have had the chance to discover many programming languages, technologies and tools. Also, I acquired skills:
+During my learning journey, I have had the chance to discover many programming languages, technologies and tools. In addition to my problem solving, database management and conception skills, I acquired too:
 <br>
 <br/>
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat"> <img src="https://img.shields.io/badge/-Database%20Management-4d008f?style=flat"> 
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <br>
 <br/>
-<img src = "https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <br>
 <br/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Spring%20boot-6db33f?style=flat&logo=springboot&logoColor=green"> 
-<img src= "https://img.shields.io/badge/-Angular -E34F26?style=flat&logo=angular&logoColor=white"> 
-<img src="https://img.shields.io/badge/-React-161616?style=flat&logo=react&logoColor=00d9ff"> 
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+<img width="86px" margin-left="5rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+<img width="86px" margin-left="5rem" src="https://junit.org/junit5/assets/img/junit5-logo.png" >
 <br>
 <br/>
-<img src="https://img.shields.io/badge/Docker-659ad2?style=flat&logo=docker&logoColor=blue">
-<img src="https://img.shields.io/badge/-Gradle-6db33f?style=flat&logo=gradle&logoColor=blue">
-<img src="https://img.shields.io/badge/-Maven-red?style=flat&logo=Apache%20Maven&logoColor=c71a36">
-<img src="https://img.shields.io/badge/-JUnit-25a162?style=flat&logo=junit5&logoColor=green">
-<br>
-<br/>
-<img src="https://img.shields.io/badge/-Latex-25a162?style=flat&logo=Latex&logoColor=white">
-<img src="https://img.shields.io/badge/-Microsoft%20Office-b9361a?style=flat&logo=microsoft%20office">
+<img margin-left="5rem" src="https://img.shields.io/badge/-Latex-25a162?style=for-the-badge&logo=Latex&logoColor=white">
+<img margin-left="5rem" src="https://img.shields.io/badge/-Microsoft%20Office-b9361a?style=for-the-badge&logo=microsoft%20office">
 </details>
 
 ---
@@ -107,21 +109,21 @@ During my learning journey, I have had the chance to discover many programming l
 </summary>
 <br>
 </br>
-<p align="center">
+<p margin-left="5rem">
 <a href="https://www.linkedin.com/in/abderrahmane-kotbi-59470a146/" target="blank">
-<img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+<img margin-left="5rem" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
 </a>
 <a href="https://www.instagram.com/kotbiabderrahmane/" target="blank">
-<img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+<img margin-left="5rem" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
 </a>
 <a href="https://twitter.com/KotbiAbderrahm1" target="blank">
-<img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+<img margin-left="5rem" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
 </a>
 <a href="https://discord.com/users/elecyora#3435" target="blank">
-<img align="center" alt="Hargun | Gmail" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" /> &nbsp; &nbsp;
+<img margin-left="5rem" alt="Hargun | Gmail" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/discord.svg" /> &nbsp; &nbsp;
 </a>
 <a href="mailto:kotbiabderrahmane16@gmail.com" target="blank"> 
-<img align="center" alt="Hargun | Gmail" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" /> &nbsp; &nbsp;
+<img margin-left="5rem" alt="Hargun | Gmail" width="30px" src="https://github.com/hargun79/hargun79/blob/master/Assets/Gmail.svg" /> &nbsp; &nbsp;
 </a>
 </p>
 </details>

@@ -7,7 +7,7 @@
         </td>
         <td>
         <h3>🤵 About Me</h3>
-        <p>I am a curious software engineering student at the national higher school of computer science and system analysis, ✨<strong>ENSIAS</strong>✨. I love coding and contributing in open source projects. Also, everytime I learn about a new topic or technology, I like to  ✨ write articles and make videos ✨ about it. I like to work also on ✨ competitve programming problems ✨ and learn from genius solutions.</p>
+        <p>I'm an AWS software development engineer, passionate about research and open source. My curiosity and adaptability make me a strong team player. I'm fascinated by the potential of AI and MDE to tackle future challenges, especially in AI Explainability feild. In my spare time, I discover and contibute to open source projects, if I got the chance to do so, and create content about new topics and technologies. I also enjoy solving competitive programming problems and learning from innovative solutions. Beyond tech, I'm an avid literature reader and a fan of Japanese Manga art.</p>
         </td>
     </tr>
 </table>
